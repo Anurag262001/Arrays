@@ -18,7 +18,7 @@ class SecondLargestElement{
     System.out.println(arr1[arr1.length-2]);
      
 
-    //my min_value
+    //by min_value
     int arr[] = {1,3,2,45,3,5,7,6,498,5};
     int seclargest = 0;
     int firstlargest = Integer.MIN_VALUE;
